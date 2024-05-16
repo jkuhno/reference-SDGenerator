@@ -11,6 +11,7 @@ from omni.syntheticdata import SyntheticData
 
 """
 @ Jani Kuhno, 2024
+This software contains source code provided by NVIDIA Corporation.
 
 To run headless, see the tutorial: https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator/headless_example.html
 

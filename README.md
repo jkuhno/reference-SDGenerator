@@ -10,3 +10,7 @@ To run the example:
 GUI: https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator/getting_started.html#running
 
 Headless: https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator/headless_example.html
+
+
+License:
+https://docs.omniverse.nvidia.com/dang/latest/common/NVIDIA_Omniverse_License_Agreement.html

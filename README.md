@@ -1,4 +1,4 @@
-Supplementing the Master's thesis, we provide the code and assets used.
+Supplementing the Master's thesis (https://jyx.jyu.fi/handle/123456789/95348), we provide the code and assets used.
 
 To run the example:
 1. Download 'assets' folder and move to OV Nucleus
